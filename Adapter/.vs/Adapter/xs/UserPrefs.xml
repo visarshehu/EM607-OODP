@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DC422AD2-48B4-4300-B9C7-43F0DCD51EB6}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter/BookAdapter.cs">
+    <Files>
+      <File FileName="Adapter/Program.cs" Line="5" Column="53" />
+      <File FileName="Adapter/Adaptee.cs" Line="8" Column="4" />
+      <File FileName="Adapter/DTOBook.cs" Line="4" Column="8" />
+      <File FileName="Adapter/IBookProvider.cs" Line="9" Column="2" />
+      <File FileName="Adapter/BookAdapter.cs" Line="27" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adapter" expanded="True">
+            <Node name="Adapter" expanded="True">
+              <Node name="BookAdapter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Adapter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

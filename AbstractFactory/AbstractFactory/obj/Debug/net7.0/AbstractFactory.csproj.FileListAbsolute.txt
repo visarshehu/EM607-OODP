@@ -1,0 +1,15 @@
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory.deps.json
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory.runtimeconfig.json
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory.dll
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory.pdb
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.AssemblyReference.cache
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfo.cs
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.dll
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/refint/AbstractFactory.dll
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.pdb
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.genruntimeconfig.cache
+/Users/visarshehu/Projects/AbstractFactory/AbstractFactory/obj/Debug/net7.0/ref/AbstractFactory.dll

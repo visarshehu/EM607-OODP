@@ -1,0 +1,15 @@
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/bin/Debug/net7.0/BuilderPattern
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/bin/Debug/net7.0/BuilderPattern.deps.json
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/bin/Debug/net7.0/BuilderPattern.runtimeconfig.json
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/bin/Debug/net7.0/BuilderPattern.dll
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/bin/Debug/net7.0/BuilderPattern.pdb
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/BuilderPattern.csproj.AssemblyReference.cache
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/BuilderPattern.AssemblyInfoInputs.cache
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/BuilderPattern.AssemblyInfo.cs
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/BuilderPattern.csproj.CoreCompileInputs.cache
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/BuilderPattern.dll
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/refint/BuilderPattern.dll
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/BuilderPattern.pdb
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/BuilderPattern.genruntimeconfig.cache
+/Users/visarshehu/Projects/BuilderPattern/BuilderPattern/obj/Debug/net7.0/ref/BuilderPattern.dll

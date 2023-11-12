@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{48654991-F358-44BC-9330-0C428C64DADA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactory/Program.cs">
+    <Files>
+      <File FileName="AbstractFactory/Program.cs" Line="7" Column="13" />
+      <File FileName="AbstractFactory/Shape.cs" Line="6" Column="31" />
+      <File FileName="AbstractFactory/Circle.cs" Line="9" Column="54" />
+      <File FileName="AbstractFactory/Rectangle.cs" Line="13" Column="1" />
+      <File FileName="AbstractFactory/Color.cs" Line="6" Column="31" />
+      <File FileName="AbstractFactory/Red.cs" Line="5" Column="3" />
+      <File FileName="AbstractFactory/Blue.cs" Line="8" Column="61" />
+      <File FileName="AbstractFactory/ColorShapeAbstractFactory.cs" Line="11" Column="1" />
+      <File FileName="AbstractFactory/RedCircleFactory.cs" Line="17" Column="1" />
+      <File FileName="AbstractFactory/BlueRectangleFactory.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractFactory" expanded="True">
+            <Node name="AbstractFactory" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

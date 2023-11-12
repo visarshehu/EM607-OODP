@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B82A840A-5F10-46A8-A5AD-0A0DD2486B60}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethod/Program.cs">
+    <Files>
+      <File FileName="FactoryMethod/Program.cs" Line="12" Column="11" />
+      <File FileName="FactoryMethod/Shape.cs" Line="10" Column="1" />
+      <File FileName="FactoryMethod/Circle.cs" Line="9" Column="1" />
+      <File FileName="FactoryMethod/Rectangle.cs" Line="11" Column="6" />
+      <File FileName="FactoryMethod/ShapeCreator.cs" Line="10" Column="1" />
+      <File FileName="FactoryMethod/CircleFactory.cs" Line="10" Column="6" />
+      <File FileName="FactoryMethod/RectangleFactory.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryMethod" expanded="True">
+            <Node name="FactoryMethod" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/visarshehu/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter
+/Users/visarshehu/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter.deps.json
+/Users/visarshehu/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter.runtimeconfig.json
+/Users/visarshehu/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter.dll
+/Users/visarshehu/Projects/Adapter/Adapter/bin/Debug/net7.0/Adapter.pdb
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.csproj.AssemblyReference.cache
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfoInputs.cache
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.AssemblyInfo.cs
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.dll
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/refint/Adapter.dll
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.pdb
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/Adapter.genruntimeconfig.cache
+/Users/visarshehu/Projects/Adapter/Adapter/obj/Debug/net7.0/ref/Adapter.dll
